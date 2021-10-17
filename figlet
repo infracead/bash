@@ -1,0 +1,2 @@
+# always in the botton
+figlet -c -f Bloody "Pain and Suffering" | lolcat;
